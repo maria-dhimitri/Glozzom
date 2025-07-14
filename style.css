@@ -1,0 +1,93 @@
+
+.cta-section {
+    background: url('/Images/lights.jpg') ;
+    color: white;
+    text-align: center;
+    padding: 0 0;
+    position: relative;;
+}
+
+.cta-section .overlay {
+    background: rgba(0, 0, 0, 0.5); 
+    padding: 25px 0;
+}
+
+.cta-section2 {
+    background: url('/Images/media.jpg') ;
+    color: white;
+    text-align: center;
+    padding: 15px 0;
+    position: relative;
+}
+
+.cta-section2 .overlay {
+    background: rgba(0, 0, 0, 0.3); 
+    padding: 30px 0;
+}
+
+.staff-img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+.staff-card {
+    text-align: center;
+    margin-top: 20px;
+}
+.contact-section {
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-radius: 10px;
+}
+.staff-section {
+    background-color: #222;
+    color: white;
+    padding: 40px 0;
+}
+.blog-card {
+    margin-bottom: 20px;
+}
+
+.blog-card img {
+    height: 200px;
+    object-fit: cover;
+}
+
+.quote {
+    padding: 15px;
+    font-style: italic;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.quote-default {
+    background-color: #f8f9fa;
+}
+
+.quote-red {
+    background-color: red;
+    color: white;
+}
+
+.quote-blue {
+    background-color: blue;
+    color: white;
+}
+.profile-img {
+    width: 350px;
+    height: 350px;
+    object-fit: cover;
+    position: absolute;
+    bottom: -35%;
+    border-radius: 50%;
+}
+
+.feature-box {
+    background-color: red;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+}
+
